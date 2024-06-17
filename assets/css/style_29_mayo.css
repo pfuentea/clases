@@ -1,0 +1,32 @@
+body2{
+    background: rgb(233,233,233);
+background: radial-gradient(circle, rgba(233,233,233,1) 0%, rgba(244,67,13,1) 35%, rgba(11,12,215,1) 100%);
+}
+
+.jacquard-12-regular {
+  font-family: "Jacquard 12", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.danfo-fuente {
+    font-family: "Danfo", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+      "ELSH" 0;
+  }
+
+.sombra{
+    width: 400px;
+    box-shadow: 17px 18px 24px 10px rgba(0,0,0,0.75);
+-webkit-box-shadow: 17px 18px 24px 10px rgba(0,0,0,0.75);
+-moz-box-shadow: 17px 18px 24px 10px rgba(0,0,0,0.75);
+}
+
+p{
+    color:red;
+    text-align: right;
+    text-shadow: 0px 3px 6px;
+}

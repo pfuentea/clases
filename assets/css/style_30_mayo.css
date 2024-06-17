@@ -1,0 +1,79 @@
+
+h1{
+    color:#d8c51e;
+    font-size: 5rem ;
+    text-shadow: 6px 3px 1px #000000;
+}
+
+.arial{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.verdana{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(150, 20, 155);
+}
+
+/* esto es un comentario
+y
+puede
+ser de varias lineas
+*/
+.raleway-500 {
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    text-align: center;
+}
+
+.raleway-300 {
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    text-align: right;
+}
+
+a:visited{
+    color:green;
+}
+
+li:first-child
+{
+    color: red;
+}
+
+li:last-child
+{
+    color: green;
+}
+
+ul ul li 
+{
+    color: #060392 !important;
+}
+
+.enlinea{
+    width: 200px;
+    border: 1px solid #000000;
+    display:inline-block;
+}
+
+.container{
+    display:flex;
+}
+.bloques{
+    width: 50%;
+    height: 250px;
+}
+
+.rojo{
+    background-color: red;
+}
+.verde{
+    background-color: green;
+}
+.azul{
+    background-color: #060392;
+}

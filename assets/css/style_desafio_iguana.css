@@ -1,0 +1,44 @@
+body{
+    background-color: #000000;
+}
+
+.container{
+    display: flex;
+    justify-content:center; 
+}
+h1{
+    color:#ffffff;
+}
+.iguana{
+    height: 1000px;
+    background-image: url('../img/bg-header.jpg');
+    background-size: cover;
+    
+}
+.section_01{
+    display: flex;
+    justify-content: space-around;
+}
+
+article{
+    color:#ffffff;
+    width: 475px;
+    margin-top: 76px;
+}
+
+.imagen{
+    width: 400px;
+    height: auto;
+}
+
+.section_02{
+    display: flex;
+    justify-content:space-around;
+}
+
+.article_02{
+    color:#ffffff;
+    border:1px solid red;
+    margin-top: 76px;
+    text-align: center;
+}
